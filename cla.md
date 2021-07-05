@@ -1,6 +1,6 @@
 # Single CLA
 
-Version 1.0.0-pre.2
+Version 1.0.0-pre.3
 
 ## Purpose
 
@@ -56,7 +56,7 @@ When I make contributions of my own work:
 
 This section gives project stewards confidence that I actually have the legal rights to contribute the work I offer.
 
-### Completeness
+### All Work
 
 When I make a contribution, I promise that all the work in it will be covered by this CLA, either as [others' work](#others-work) or as [my own work](#my-own-work).
 
