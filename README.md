@@ -2,6 +2,8 @@
 
 fork-to-sign contributor licensing agreement for all pull-request-driven projects
 
+Users fork this repo under their own accounts.  The original project repository is <https://github.com/singlecla/singlecla>.
+
 You can:
 
 - [Read the terms for yourself.](./cla.md)  If something doesn't make sense, [that's the terms' fault, not yours](https://flippedform.com).
