@@ -25,3 +25,7 @@ You can:
     ```
 
 3.  Push your new commit to your forked repository so the page at `https://github.com/{you}/singlecla/blog/main/cla.md` shows your signature.
+
+## Verify
+
+You can verify that you or someone else has a valid, signed Single CLA using a [provided script](https://github.com/singlecla/verify).
