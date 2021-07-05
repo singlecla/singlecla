@@ -1,6 +1,6 @@
 # Single CLA
 
-Version 1.0.0-pre.3
+Version 1.0.0-pre.4
 
 ## Purpose
 
@@ -40,9 +40,9 @@ When I make contributions including others' work:
 
 When I make contributions of my own work:
 
-1.  I license the project steward to do everything with my work that would otherwise infringe all copyrights in it I can license.
+1.  I license the project steward to do everything with my work that would otherwise infringe all copyrights in it that I can license.
 
-2.  I license the project steward to do everything with my work that would otherwise infringe any patent claims I can license.
+2.  I license the project steward to do everything with my work that would otherwise infringe any patent claims that I can license.
 
 3.  These license grants cover copyrights and patent claims I can license at the time, as well as copyrights and patent claims I become able to license later.
 
