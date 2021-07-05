@@ -16,9 +16,11 @@ You can:
 
 ## Signing
 
-1.  [Fork https://github.com/singlecla/singlecla](https://github.com/singlecla/singlecla/fork) to your personal GitHub account.
+1.  [Have a look through the terms.](./cla.md)  They were written to be read.  And understood.
 
-2.  Make a commit signing [`cla.md`](./cla.md) by replacing `{{{name}}}` with your full legal name.  The result will look like:
+2.  [Fork https://github.com/singlecla/singlecla](https://github.com/singlecla/singlecla/fork) to your personal GitHub account.
+
+3.  Make a commit signing [`cla.md`](./cla.md) by replacing `{{{name}}}` with your full legal name.  The result will look like:
 
     ```markdown
     ## Signature
@@ -26,7 +28,7 @@ You can:
     Signed: /Ada Lovelace/
     ```
 
-3.  Push your new commit to your forked repository so the page at `https://github.com/{you}/singlecla/blog/main/cla.md` shows your signature.
+4.  Push your new commit to your forked repository so the page at `https://github.com/{you}/singlecla/blog/main/cla.md` shows your signature.
 
 ## Verify
 
