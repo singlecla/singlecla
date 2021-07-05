@@ -1,6 +1,6 @@
 # Single CLA
 
-Version 1.0.0-pre.5
+Version 1.0.0-pre.6
 
 ## Purpose
 
@@ -68,7 +68,7 @@ I am aware of legal rules, like ["work made for hire"](https://en.wikipedia.org/
 
 When I offer a contribution with permission from a company or client who may own rights in it, I promise to mention that in a comment to my pull request, as well as whether and how they gave me permission to contribute it.
 
-### Company CLAs
+### Company and Client CLAs
 
 If a project steward asks me to help get a CLA from a company or client that may own rights in my contribution, I promise to help the project steward request that someone with authority to sign contracts for the company or client sign a reasonable CLA covering my contribution.
 
