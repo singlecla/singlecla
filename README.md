@@ -14,7 +14,7 @@ You can:
 
 ## Signing
 
-1.  Fork [https://github.com/singlecla/singlecla](https://github.com/singlecla/singlecla) to your personal GitHub account.  Make sure you fork the default `main` branch.
+1.  [Fork https://github.com/singlecla/singlecla](https://github.com/singlecla/singlecla/fork) to your personal GitHub account.
 
 2.  Make a commit signing [`cla.md`](./cla.md) by replacing `{{{name}}}` with your full legal name.  The result will look like:
 
