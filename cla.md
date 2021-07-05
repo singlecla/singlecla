@@ -1,6 +1,6 @@
 # Single CLA
 
-Version 1.0.0-pre.4
+Version 1.0.0-pre.5
 
 ## Purpose
 
@@ -50,11 +50,11 @@ When I make contributions of my own work:
 
 5.  I cannot and will not revoke these license grants.
 
-5. ***As far as the law allows, my work comes as is, without any warranty or condition, apart from my promises about rights to license under this CLA.***
+5. ***As far as the law allows, my work comes as is, without any warranty or condition, apart from my promises about [right to license](#right-to-license) under this CLA.***
 
 ## Right to License
 
-This section gives project stewards confidence that I actually have the legal rights to contribute the work I offer.
+This section gives project stewards confidence that I actually have the legal right to contribute the work I offer.
 
 ### All Work
 
