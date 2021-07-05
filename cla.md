@@ -1,6 +1,6 @@
 # Single CLA
 
-Version 1.0.0-pre.1
+Version 1.0.0-pre.2
 
 ## Purpose
 
@@ -12,7 +12,7 @@ This section makes clear when this CLA applies to my contributions.
 
 ### Pull Requests
 
-This CLA applies to every pull request I open on this website offering a contribution to a free, public project that consolidates rights to license all contributions in a single organization or individual---the project steward---such as a foundation, company, or lead developer.
+This CLA applies to every pull request I open on this website offering a contribution to a free, public project that consolidates rights to license all contributions in a single organization or individual, the project steward, such as a foundation, company, or lead developer.
 
 ### Exceptions
 
