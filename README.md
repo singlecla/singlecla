@@ -1,6 +1,6 @@
 # Single CLA
 
-fork-to-sign CLA for all pull-request-driven projects
+fork-to-sign contributor licensing agreement for all pull-request-driven projects
 
 You can:
 
