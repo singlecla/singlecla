@@ -1,6 +1,6 @@
 # Single CLA
 
-Version 1.0.0-pre.6
+Version 1.0.0-pre.7
 
 ## Purpose
 
@@ -60,7 +60,7 @@ This section gives project stewards confidence that I actually have the legal ri
 
 When I make a contribution, I promise that all the work in it will be covered by this CLA, either as [others' work](#others-work) or as [my own work](#my-own-work).
 
-### Education
+### Awareness
 
 I am aware of legal rules, like ["work made for hire"](https://en.wikipedia.org/wiki/Work_for_hire) rules, that can give employers and clients ownership of intellectual property in work that I do.  I am also aware that legal agreements I make [can transfer ownership of intellectual property in my work to others](https://en.wikipedia.org/wiki/Assignment_(law)).
 
