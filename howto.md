@@ -1,4 +1,4 @@
-# Single CLA Checklist
+# How to Sign the Single CLA
 
 1.  Fork [https://github.com/singlecla/singlecla](https://github.com/singlecla/singlecla) to your personal GitHub account.  Make sure you fork the default `main` branch.
 
