@@ -28,7 +28,7 @@ You can:
     Signed: /Ada Lovelace/
     ```
 
-4.  Push your new commit to your forked repository so the page at `https://github.com/{you}/singlecla/blog/main/cla.md` shows your signature.
+4.  Push your new commit to your forked repository so the page at `https://github.com/{you}/singlecla/blob/main/cla.md` shows your signature.
 
 ## Verify
 
