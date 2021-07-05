@@ -1,6 +1,6 @@
 # Single CLA
 
-fork-to-sign CLA for all PR-driven projects
+fork-to-sign CLA for all pull-request-driven projects
 
 You can:
 
