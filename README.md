@@ -6,7 +6,7 @@ You can:
 
 - [Read the terms for yourself.](./cla.md)  If something doesn't make sense, [that's the terms' fault, not yours](https://flippedform.com).
 
-- [Sign the CLA, using Git, a text editor, and your account.](#signing)
+- [Sign the CLA, using Git, a text editor, and your GitHub or other Git hosting account.](#signing)
 
 - [Review a checklist for responsible PRs to others' projects.](./checklist.md)
 
