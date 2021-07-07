@@ -1,6 +1,6 @@
 # Single CLA
 
-Version 1.0.0-pre.8
+Version 1.0.0-pre.9
 
 ## Purpose
 
@@ -19,6 +19,10 @@ This CLA applies to every pull request that I open offering a contribution:
 2.  on the same website where I published this CLA
 
 3.  for a project that gathers rights to license contributions in a single organization or individual, the project steward, such as a foundation, company, or lead developer
+
+This CLA also applies to a pull request if I specifically say it does in a comment to that pull request.  For example, I might say:
+
+> My Single CLA applies to this pull request.
 
 ### Exceptions
 
