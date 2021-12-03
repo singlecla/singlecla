@@ -86,7 +86,7 @@ When I offer a contribution with permission from some other company or person wh
 
 ### Company and Client CLAs
 
-If a project steward asks me to help get a CLA from someone who many own legal rights in my contribution, I promise to help the project steward request that CLA.  I am aware that individuals with signature authority can sign CLAs for companies and other legal entities.
+If a project steward asks me to help get a CLA from someone who many own legal rights in my contribution, I promise to help the project steward request that CLA.  I am aware that only people with legal authority can sign CLAs on behalf of companies and other legal entities.
 
 ## Reliability
 
