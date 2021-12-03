@@ -72,7 +72,7 @@ When I make a contribution, I promise that all the work in it will be covered by
 
 ### Awareness
 
-I am aware of legal rules, like ["work made for hire"](https://en.wikipedia.org/wiki/Work_for_hire) rules, that can give employers and clients ownership of intellectual property in work that I do.  I am also aware that legal agreements I make [can transfer ownership of intellectual property in my work to others](https://en.wikipedia.org/wiki/Assignment_(law)), such as companies I found or sell my work to.  I am aware that in either case, someone else owns the legal rights in work that I do.
+I am aware of legal rules, like ["work made for hire"](https://en.wikipedia.org/wiki/Work_for_hire) rules, that can give employers and clients ownership of intellectual property in my work.  I am also aware that legal agreements I make [can transfer ownership of intellectual property in my work to others](https://en.wikipedia.org/wiki/Assignment_(law)), such as companies I found or sell my work to.  I am aware that in either case, I may not have the legal right to license my work.
 
 ### Permission
 
