@@ -18,7 +18,7 @@ This CLA applies to every pull request that I open offering a contribution:
 
 2.  on the same website where I published this CLA under the `singlecla` repository of my account
 
-3.  for a project that gathers rights to license contributions in a single organization or individual, the project steward, such as a foundation, company, or lead developer
+3.  for a project that gathers rights to license contributions in a single project steward, such as a foundation, company, or lead developer
 
 This CLA also applies to a pull request if I specifically say it does in a comment to that pull request.  For example, I might say:
 
