@@ -64,7 +64,7 @@ When I make contributions of my own work:
 
 ## Right to License
 
-This section assures project stewards that I actually have the legal right to contribute the work I offer.
+This section assures project stewards that I actually have the legal right to license the work I contribute.
 
 ### All Work
 
