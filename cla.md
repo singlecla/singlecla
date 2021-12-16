@@ -4,7 +4,7 @@ Version 1.0.0-pre.10
 
 ## Purpose
 
-This contributor license agreement, or CLA, sets out the terms and guarantees that I give for my contributions to others' projects.  That way others can accept my contributions without fear of licensing problems and I can sign a single CLA, rather than one for each project.
+This contributor license agreement, or CLA, sets out the terms and guarantees that I give for my contributions to open software projects.  That way other developers can accept my contributions without fear of licensing problems and I can sign a single CLA, rather than one for each project.
 
 ## Scope
 
