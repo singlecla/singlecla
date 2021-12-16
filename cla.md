@@ -20,13 +20,13 @@ This CLA applies to every pull request that I open offering a contribution:
 
 3.  for a project that gathers rights to license contributions in a single project steward, such as a foundation, company, or lead developer
 
-This CLA also applies to a pull request if I specifically say it does in a comment to that pull request.  For example, I might say:
+This CLA also applies to a pull request if I specifically say it applies in a comment to that pull request.  For example, I might say:
 
 > My Single CLA applies to this pull request.
 
 ### Exceptions
 
-This CLA does _not_ apply to a pull request if I specifically say it does not in a comment to that pull request.  For example, I might say:
+This CLA does _not_ apply to a pull request if I specifically say it does not apply in a comment to that pull request.  For example, I might say:
 
 > My Single CLA does not apply to this pull request.
 
