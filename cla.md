@@ -16,7 +16,7 @@ This CLA applies to every pull request that I open offering a contribution:
 
 1.  to a public software repository
 
-2.  on the same website where I published this CLA under the `singlecla` repository under my account
+2.  on the same website where I published this CLA under the `singlecla` repository of my account
 
 3.  for a project that gathers rights to license contributions in a single project steward, such as a foundation, company, or lead developer
 
@@ -32,7 +32,7 @@ This CLA does _not_ apply to a pull request if I specifically say it does not ap
 
 ### Withdrawal
 
-This CLA does _not_ apply to any pull request that I open after removing this signed CLA from the `singlecla` repository under my account.
+This CLA does _not_ apply to any pull request that I open after removing this signed CLA from the `singlecla` repository of my account.
 
 ## Licensing
 
