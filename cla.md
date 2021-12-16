@@ -42,7 +42,7 @@ This section assures project stewards that my contributions come under acceptabl
 
 When I make contributions including others' work:
 
-1.  I promise to take basic steps to make sure that work is licensed under permissive open license terms [that Blue Oak Council rates "bronze" or better](https://blueoakcouncil.org/list).
+1.  I promise to take basic steps to make sure that work is licensed under permissive open license terms that Blue Oak Council rates "bronze" or better at <https://blueoakcouncil.org/list>.
 
 2.  I promise to include copies of copyright notices, license terms, and other licensing documentation in my contribution, so the project steward can tell from files in the project's repository who licensed what work under what terms.
 
