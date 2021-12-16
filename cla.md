@@ -1,6 +1,6 @@
 # Single CLA
 
-Version 1.0.0-pre.10
+Version 1.0.0
 
 ## Purpose
 
