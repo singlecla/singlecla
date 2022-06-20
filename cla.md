@@ -26,7 +26,7 @@ This CLA also applies to a pull request if I specifically say it applies in a co
 
 ### Exceptions
 
-This CLA does _not_ apply to a pull request if I specifically say it does not apply in a comment to that pull request.  For example, I might say:
+This CLA does _not_ apply to a pull request if I specifically say it does not apply in a comment to that pull request before it is accepted.  For example, I might say:
 
 > My Single CLA does not apply to this pull request.
 
