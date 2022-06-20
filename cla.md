@@ -62,9 +62,9 @@ When I make contributions of my own work:
 
 6.  ***As far as the law allows, my work comes as is, without any warranty or condition, except my promises about [right to license](#right-to-license) under this CLA.***
 
-## Right to License
+## Rights to License
 
-This section assures project stewards that I actually have the legal right to license the work I contribute.
+This section assures project stewards that I actually have the legal rights to license the work I contribute.
 
 ### All Work
 
@@ -72,7 +72,7 @@ When I make a contribution, I promise that all the work in it will be covered by
 
 ### Awareness
 
-I am aware of legal rules, like ["work made for hire"](https://en.wikipedia.org/wiki/Work_for_hire) rules, that can give employers and clients ownership of intellectual property in my work.  I am also aware that legal agreements I make [can transfer ownership of intellectual property in my work to others](https://en.wikipedia.org/wiki/Assignment_(law)), such as companies I found or sell my work to.  I am aware that in either case, I may not have the legal right to license my work.
+I am aware of legal rules, like ["work made for hire"](https://en.wikipedia.org/wiki/Work_for_hire) rules, that can give employers and clients ownership of intellectual property in my work.  I am also aware that legal agreements I make [can transfer ownership of intellectual property in my work to others](https://en.wikipedia.org/wiki/Assignment_(law)), such as companies I found or sell my work to.  I am aware that in either case, I may not have the legal rights to license my work.
 
 ### Permission
 
