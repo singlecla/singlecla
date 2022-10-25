@@ -60,7 +60,7 @@ When I make contributions of my own work:
 
 5.  I cannot and will not revoke these license grants.
 
-6.  ***As far as the law allows, my work comes as is, without any warranty or condition, except my promises about [right to license](#right-to-license) under this CLA.***
+6.  ***As far as the law allows, my work comes as is, without any warranty or condition, except my promises about [rights to license](#rights-to-license) under this CLA.***
 
 ## Rights to License
 
