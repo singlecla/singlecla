@@ -4,7 +4,7 @@ Development Draft
 
 ## Purpose
 
-This contributor license agreement sets out the terms and assurances that I give for my contributions to public software projects on this website.  That way project stewards can accept my contributions without fear of licensing problems and I can sign one contributor license agreement, rather than one for each project.
+This contributor license agreement sets out the licenses and assurances that I give for my contributions to public software projects on this website.  That way project stewards can accept my contributions without fear of licensing problems and I can sign one contributor license agreement, rather than one for each project.
 
 ## Scope
 
