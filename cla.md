@@ -4,7 +4,7 @@ Development Draft
 
 ## Purpose
 
-This contributor license agreement sets out the terms and guarantees that I give for my contributions to open software projects on this website so other developers can accept my contributions without fear of licensing problems and I can sign one agreement, rather than one for each project.
+This contributor license agreement sets out the terms and guarantees that I give for my contributions to public software projects on this website so other developers can accept my contributions without fear of licensing problems and I can sign one agreement, rather than one for each project.
 
 ## Scope
 
@@ -90,7 +90,7 @@ If a project steward asks me to help get a CLA from someone who may own legal ri
 
 ## Reliability
 
-I fully expect project stewards, users, and distributors to rely on this CLA.  I am aware that they might enforce this CLA as a legally binding agreement.
+I fully expect project stewards, users, and distributors of public software projects to rely on this CLA.  I am aware that they might enforce this CLA as a legally binding agreement.
 
 ## Signature
 
