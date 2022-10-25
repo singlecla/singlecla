@@ -86,7 +86,7 @@ When I offer a contribution with permission from an organization or another pers
 
 For example, I might say:
 
-> I created this pull request while at work for Example, Inc.  They may have the legal rights to license copyrights and patents in it.  I asked my manager for permission to contribute, and she pointed me to the company's open source policy, which is online at <https://example.com/open-source-policy>.
+> I did this work while on the job for Example, Inc.  They may have the legal rights to license copyrights and patents in it.  I asked my manager for permission to contribute, and she pointed me to the company's open source policy, which is online at <https://example.com/open-source-policy>.
 
 ### Company and Client CLAs
 
