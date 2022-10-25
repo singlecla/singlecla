@@ -68,7 +68,7 @@ This section assures project stewards that I actually have the legal rights to l
 
 ### All Work
 
-When I make a contribution, I promise that all the work in it will be covered by this CLA, either as [others' work](#others-work) or as [my own work](#my-own-work).
+When I make a contribution, all the work in it will be covered by this CLA, either as [others' work](#others-work) or as [my own work](#my-own-work).
 
 ### Awareness
 
