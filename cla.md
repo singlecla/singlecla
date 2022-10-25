@@ -58,7 +58,7 @@ When I make contributions of work that I have the legal rights to license copyri
 
 When I make contributions including work that others have the legal rights to license copyrights and patents in:
 
-1.  I promise to mention in comments to my pull requests when it isn't clearly licensed under permissive open license terms that Blue Oak Council rates "bronze" or better at <https://blueoakcouncil.org/list>.
+1.  I promise to mention in comments to my pull requests when that work isn't clearly licensed under permissive open license terms that Blue Oak Council rates "bronze" or better at <https://blueoakcouncil.org/list>.
 
 2.  I promise to include copies of copyright notices, license terms, and other licensing documentation in my contribution, so the project steward can tell from files in the project's repository who licensed what work under what terms.
 
