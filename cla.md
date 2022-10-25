@@ -72,7 +72,7 @@ When I make a contribution, all the work in it will be covered by this CLA, eith
 
 ### Awareness
 
-I am aware of legal rules, like ["work made for hire"](https://en.wikipedia.org/wiki/Work_for_hire) rules, that can give employers and clients ownership of copyrights and patents in my work.  I am also aware that legal agreements I make [can transfer ownership of copyrights and patents in my work to others](https://en.wikipedia.org/wiki/Assignment_(law)), such as companies I found, work for, or sell my work to.  I am aware that in either case, I may not have the legal rights to license copyrights or patents in work I myself create.
+I am aware of legal rules, like ["work made for hire"](https://en.wikipedia.org/wiki/Work_for_hire) rules, that can give employers and clients ownership of copyrights and patents in my work.  I am also aware that legal agreements I make [can transfer ownership of copyrights and patents in my work to others](https://en.wikipedia.org/wiki/Assignment_(law)), such as companies and other organizations that I found, work for, or sell my work to.  I am aware that in either case, I may not have the legal rights to license copyrights or patents in work I myself create.
 
 ### Permission
 
@@ -86,7 +86,7 @@ When I offer a contribution with permission from some other company or person wh
 
 ### Company and Client CLAs
 
-If a project steward asks me to help get a CLA from someone who may own legal rights in my contribution, I promise to help the project steward request that CLA.  I am aware that only people with legal authority can sign CLAs on behalf of companies and other legal entities.
+If a project steward asks me to help get a CLA from someone who may own legal rights in my contribution, I promise to help the project steward request that CLA.  I am aware that only people with legal authority can sign CLAs on behalf of companies and other other organizations.
 
 ## Reliability
 
