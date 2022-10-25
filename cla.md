@@ -40,7 +40,7 @@ This section assures project stewards that my contributions come under acceptabl
 
 ### My Own Work
 
-When I make contributions of my own work:
+When I make contributions of work that I have the legal rights to license copyrights and patents in:
 
 1.  I license the project steward to do everything with my work that would otherwise infringe all copyrights in it that I can license.
 
@@ -56,7 +56,7 @@ When I make contributions of my own work:
 
 ### Others' Work
 
-When I make contributions including others' work:
+When I make contributions including work that others have the legal rights to license copyrights and patents in:
 
 1.  I promise to mention in comments to my pull requests when it isn't clearly licensed under permissive open license terms that Blue Oak Council rates "bronze" or better at <https://blueoakcouncil.org/list>.
 
