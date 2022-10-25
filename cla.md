@@ -76,17 +76,17 @@ I am aware of legal rules, like ["work made for hire"](https://en.wikipedia.org/
 
 ### Permission
 
-When I offer a contribution with permission from some other company or person who might own legal rights in it, I promise to mention all the following in comments to my pull request:
+When I offer a contribution with permission from an organization or another person that might have the legal rights to license copyrights or patents in it, I promise to mention all the following in comments to my pull request:
 
-1.  the fact that someone else might own legal rights in my contribution
+1.  the fact that an organization or another person might have the legal rights to license copyrights or patents in my contribution
 
-2.  the name of the person or organization who might own the legal rights
+2.  the name of the person or organization that might have those legal rights
 
 3.  whether and how they gave me permission to contribute
 
 ### Company and Client CLAs
 
-If a project steward asks me to help get a CLA from someone who may own legal rights in my contribution, I promise to help the project steward request that CLA.  I am aware that only people with legal authority can sign CLAs on behalf of companies and other other organizations.
+If a project steward asks me to help get a CLA from someone who may have the legal rights to license copyrights or patents in my contribution, I promise to help the project steward request that CLA.  I am aware that only people with legal authority can sign CLAs on behalf of companies and other other organizations.
 
 ## Reliability
 
