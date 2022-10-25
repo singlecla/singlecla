@@ -1,6 +1,6 @@
 # Single CLA
 
-Development Draft
+Version 2.0.0
 
 ## Purpose
 
