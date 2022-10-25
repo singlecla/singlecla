@@ -90,7 +90,7 @@ For example, I might say:
 
 ### Company and Client CLAs
 
-If a project steward asks me to help get a CLA from someone who may have the legal rights to license copyrights or patents in my contribution, I promise to help the project steward request that CLA.  I am aware that only people with legal authority can sign CLAs on behalf of companies and other organizations.
+If a project steward asks me to help get a CLA from someone who may have the legal rights to license copyrights or patents in my contribution, I promise to help the project steward request that CLA.  I am aware that only people with legal authority can sign CLAs on behalf of companies and other organizations.  For corporations, this often means executive officers.
 
 ## Reliability
 
