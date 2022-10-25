@@ -42,7 +42,7 @@ This section assures project stewards that my contributions come under acceptabl
 
 When I make contributions including others' work:
 
-1.  I promise to mention in comments to my pull requests when others' work isn't clearly licensed under permissive open license terms that Blue Oak Council rates "bronze" or better at <https://blueoakcouncil.org/list>.
+1.  I promise to mention in comments to my pull requests when it isn't clearly licensed under permissive open license terms that Blue Oak Council rates "bronze" or better at <https://blueoakcouncil.org/list>.
 
 2.  I promise to include copies of copyright notices, license terms, and other licensing documentation in my contribution, so the project steward can tell from files in the project's repository who licensed what work under what terms.
 
@@ -56,7 +56,7 @@ When I make contributions of my own work:
 
 3.  These license grants cover copyrights and patent claims I can license at the time I open my pull request, as well as copyrights and patent claims I become able to license later.
 
-4.  I license the project steward to pass these rights on to, or sublicense, anyone or everyone, under any terms they choose, one or many times.  As examples, this covers releasing the project on new public license terms, as well as licensing the project to specific customers on commercial license terms.
+4.  I license the project steward to pass these rights on to, or sublicense, anyone or everyone, under any terms they choose, one or many times.  As examples, this covers releasing the project under new public license terms, as well as licensing the project to specific customers on commercial license terms.
 
 5.  I cannot and will not revoke these license grants.
 
