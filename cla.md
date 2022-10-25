@@ -84,6 +84,10 @@ When I offer a contribution with permission from an organization or another pers
 
 3.  whether and how they gave me permission to contribute
 
+For example, I might say:
+
+> I created this pull request while at work for Example, Inc.  I asked my manager about permission to contribute, and she pointed me to our open source policy, which is online at <https://example.com/open-source-policy>.
+
 ### Company and Client CLAs
 
 If a project steward asks me to help get a CLA from someone who may have the legal rights to license copyrights or patents in my contribution, I promise to help the project steward request that CLA.  I am aware that only people with legal authority can sign CLAs on behalf of companies and other other organizations.
