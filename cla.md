@@ -56,6 +56,8 @@ When I make contributions of work that I have the legal right to license:
 
 7.  ***As far as the law allows, my work comes as is, without any warranty or condition, except my promises about [rights to license](#rights-to-license) under this CLA.***
 
+8.  **As far as the law allows, I will not be liable to anyone for any damages related to my work or these license grants, under any kind of legal claim.**
+
 ### Others' Work
 
 When I make contributions including work that others have the legal right to license:
