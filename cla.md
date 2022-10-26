@@ -44,9 +44,9 @@ When I make contributions of work that I have the legal rights to license copyri
 
 1.  I license the project steward to do everything with my work that would otherwise infringe all copyrights in it that I can license.
 
-2.  I license the project steward to do everything with my work that would otherwise infringe any patent claims that I can license.
+2.  I license the project steward to do everything with my work that would otherwise infringe any patents that I can license.
 
-3.  These license grants cover copyrights and patent claims I can license at the time I open my pull request, as well as copyrights and patent claims I become able to license later.
+3.  These license grants cover copyrights and patents I can license at the time I open my pull request, as well as copyrights and patents I become able to license later.
 
 4.  I license the project steward to pass these rights on to, or sublicense, anyone or everyone, under any terms they choose, one or many times.  As examples, this covers releasing the project under new public license terms, as well as licensing the project to specific customers on commercial license terms.
 
