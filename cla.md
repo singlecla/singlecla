@@ -8,8 +8,6 @@ This contributor license agreement sets out the licenses and assurances that I g
 
 ## Scope
 
-This section makes clear when this CLA applies to my contributions.
-
 ### Pull Requests
 
 This CLA applies to every pull request that I open offering a contribution:
@@ -36,8 +34,6 @@ This CLA does _not_ apply to any pull request that I open on this website after 
 
 ## Licensing
 
-This section assures project stewards that my contributions come under acceptable license terms.
-
 ### My Own Work
 
 When I make contributions of work that I have the legal rights to license copyrights and patents in:
@@ -63,8 +59,6 @@ When I make contributions including work that others have the legal rights to li
 2.  I promise to include copies of copyright notices, license terms, and other licensing documentation in my contribution, so the project steward can tell from files in the project's repository who licensed what work under what terms.
 
 ## Rights to License
-
-This section assures project stewards that I actually have the legal rights to license the work I contribute.
 
 ### All Work
 
