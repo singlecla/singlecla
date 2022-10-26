@@ -52,7 +52,7 @@ When I make contributions of work that I have the legal rights to license copyri
 
 5.  I cannot and will not revoke these license grants.
 
-6.  ***As far as the law allows, my work comes as is, without any warranty or condition, except my promises about [rights to license](#rights-to-license) under this CLA.***
+6.  ***As far as the law allows, my work comes as is, without any warranty or condition, except for my promises under [Rights to License](#rights-to-license).***
 
 ### Others' Work
 
