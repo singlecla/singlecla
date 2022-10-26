@@ -50,11 +50,13 @@ When I make contributions of work that I have the legal right to license:
 
 4.  These license grants cover rights I can license at the time I open my pull request, as well as rights I become able to license later.
 
-5.  I license the project steward to pass these rights on to, or sublicense, anyone or everyone, under any terms they choose, one or many times.  As examples, this covers releasing the project under new public license terms, as well as licensing the project to specific customers on commercial license terms.
+5.  I license the project steward to pass these rights on to, or sublicense, anyone or everyone, under any terms they choose, one or many times.  s examples, this covers releasing the project under new public license terms, as well as licensing the project to specific customers on commercial license terms.
 
 6.  I cannot and will not revoke these license grants.
 
-7.  ***As far as the law allows, my work comes as is, without any warranty or condition, except my promises about [rights to license](#rights-to-license) under this CLA.***
+7.  As far as the law allows, I waive any moral rights I have in the work.
+
+8.  ***As far as the law allows, my work comes as is, without any warranty or condition, except my promises about [rights to license](#rights-to-license) under this CLA.***
 
 ### Others' Work
 
