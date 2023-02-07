@@ -84,7 +84,7 @@ When I offer a contribution with permission from an organization or another pers
 
 For example, I might say:
 
-> I did this work while on the job for Example, Inc.  They may have the legal right to license intellectual property in it.  I asked my manager for permission to contribute, and she pointed me to the company's open source policy, which is online at <https://example.com/open-source-policy>.
+> I did this work while on the job for Example, Inc.  They may have the legal right to license it, instead of me.  I asked my manager if I could contribute my work, and she pointed me to our company's open source policy, which covers it.
 
 ### Company and Client CLAs
 
