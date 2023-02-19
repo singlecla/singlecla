@@ -36,7 +36,7 @@ This CLA does _not_ apply to any pull request that I open on this website after 
 
 ### My Work
 
-When I make contributions of work that I have the legal right to license:
+When I open pull requests offering contributions of work that I have the legal right to license:
 
 1.  I license the project steward to do everything with my work that would otherwise infringe all copyrights in it that I can license.
 
@@ -54,13 +54,27 @@ When I make contributions of work that I have the legal right to license:
 
 8.  ***As far as the law allows, my work comes as is, without any warranty or condition, except for my promises under [Rights to License](#rights-to-license).***
 
-### Others' Work
+### Work I Have Permission to Contribute
 
-When I make contributions including work that others have the legal right to license:
+When I open pull requests offering contributions of work that companies or other organizations, like my employers or clients, might have legal rights to license, I promise to mention all the following in comments to those pull requests:
 
-1.  I promise to mention in comments to my pull requests when that work isn't clearly licensed under permissive open license terms that Blue Oak Council rates "bronze" or better at <https://blueoakcouncil.org/list>.
+1.  the fact that an organization or another person might have the legal right to license work I am contributing
 
-2.  I promise to include copies of copyright notices, license terms, and other licensing documentation in my contribution, so the project steward can tell from files in the project's repository who licensed what work under what terms.
+2.  the name of the organization or person that might have those legal rights
+
+3.  whether and how they gave me permission to contribute
+
+For example, I might say:
+
+> I did this work while on the job for Example, Inc.  They may have the legal right to license it, instead of me.  I asked my manager if I could contribute my work, and she pointed me to our company's open source policy, which covers it.
+
+### Other Work
+
+When I open pull requests offering contributions including work that others have the legal right to license:
+
+1.  I promise to mention in comments to those pull requests when that work isn't clearly licensed under permissive open license terms that Blue Oak Council rates "bronze" or better at <https://blueoakcouncil.org/list>.
+
+2.  I promise to include copies of copyright notices, license terms, and other licensing documentation in my pull request, so the project steward can tell from files in the project's repository who licensed what work under what terms.
 
 ## Rights to License
 
@@ -71,20 +85,6 @@ When I make a contribution, all the work in it will be covered by this CLA.
 ### Awareness
 
 I am aware of legal rules, like ["work made for hire"](https://en.wikipedia.org/wiki/Work_for_hire) rules, that can give employers and clients ownership of intellectual property rights in my work.  I am also aware that legal agreements I make [can transfer ownership of intellectual property rights in my work to others](https://en.wikipedia.org/wiki/Assignment_(law)), such as companies and other organizations that I found, work for, or sell my work to.  I am aware that due to rules and agreements like these, I may not have the legal right to license work I create.
-
-### Work I Have Permission to Contribute
-
-When I offer a contribution with permission from an organization or another person that might have the legal right to license intellectual property in it, I promise to mention all the following in comments to my pull request:
-
-1.  the fact that an organization or another person might have the legal rights to license intellectual property in my contribution
-
-2.  the name of the person or organization that might have those legal rights
-
-3.  whether and how they gave me permission to contribute
-
-For example, I might say:
-
-> I did this work while on the job for Example, Inc.  They may have the legal right to license it, instead of me.  I asked my manager if I could contribute my work, and she pointed me to our company's open source policy, which covers it.
 
 ### Company and Client CLAs
 
