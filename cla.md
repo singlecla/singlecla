@@ -30,9 +30,7 @@ This CLA does _not_ apply to a pull request if I specifically say it does not ap
 
 This CLA does _not_ apply to any pull request that I open on this website after removing this signed CLA from the `singlecla` repository under my account name.
 
-## Licensing
-
-### My Work
+## Licensing My Work
 
 When I open pull requests offering contributions of work that I have the legal right to license:
 
@@ -52,7 +50,7 @@ When I open pull requests offering contributions of work that I have the legal r
 
 8.  ***As far as the law allows, my work comes as is, without any warranty or condition.***
 
-### Work I Have Permission to Contribute
+## Work I Have Permission to Contribute
 
 When I open pull requests offering contributions of work that companies or other organizations, like my employers or clients, might have the legal right to license, I promise to mention all the following in comments to those pull requests:
 
@@ -66,7 +64,7 @@ For example, I might say:
 
 > I did this work while on the job for Example, Inc.  They may have the legal right to license it, instead of me.  I asked my manager if I could contribute my work, and she pointed me to our company's open source policy, which covers it.
 
-### Other Work
+## Other Work
 
 When I open pull requests offering contributions including work that others have the legal right to license:
 
