@@ -28,7 +28,7 @@ This CLA does _not_ apply to a pull request if I specifically say it does not ap
 
 > My Single CLA does not apply to this pull request.
 
-### Withdrawal
+### Withdrawing My CLA
 
 This CLA does _not_ apply to any pull request that I open on this website after removing this signed CLA from the `singlecla` repository under my account name.
 
