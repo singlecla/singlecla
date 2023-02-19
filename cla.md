@@ -34,7 +34,7 @@ This CLA does _not_ apply to any pull request that I open on this website after 
 
 ## Licensing
 
-### My Own Work
+### My Work
 
 When I make contributions of work that I have the legal right to license:
 
