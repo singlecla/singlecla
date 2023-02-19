@@ -44,7 +44,7 @@ When I make contributions of work that I have the legal right to license:
 
 3.  I license the project steward to do everything with my work that would otherwise infringe any database rights in it that I can license.
 
-4.  These license grants cover rights I can license at the time I open my pull request, as well as rights I become able to license later.
+4.  These license grants cover rights I can license at the time I open my pull request and rights I become able to license later.
 
 5.  I license the project steward to pass these rights on to, or sublicense, anyone or everyone, under any terms they choose, one or many times.  s examples, this covers releasing the project under new public license terms, as well as licensing the project to specific customers on commercial license terms.
 
