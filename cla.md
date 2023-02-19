@@ -52,7 +52,7 @@ When I open pull requests offering contributions of work that I have the legal r
 
 7.  I cannot and will not revoke these license grants or waivers.
 
-8.  ***As far as the law allows, my work comes as is, without any warranty or condition, except for my promises under [Rights to License](#rights-to-license).***
+8.  ***As far as the law allows, my work comes as is, without any warranty or condition.***
 
 ### Work I Have Permission to Contribute
 
