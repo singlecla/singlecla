@@ -76,7 +76,7 @@ When I open pull requests offering contributions including work that others have
 
 2.  I promise to include copies of copyright notices, license terms, and other licensing documentation in my pull request, so the project steward can tell from files in the project's repository who licensed what work under what terms.
 
-## Awareness
+## Work Made For Hire, IP Assignments, and So On
 
 I am aware of legal rules, like ["work made for hire"](https://en.wikipedia.org/wiki/Work_for_hire) rules, that can give employers and clients ownership of intellectual property rights in my work.  I am also aware that legal agreements I make [can transfer ownership of intellectual property rights in my work to others](https://en.wikipedia.org/wiki/Assignment_(law)), such as companies and other organizations that I found, work for, or sell my work to.  I am aware that due to rules and agreements like these, I may not have the legal right to license work I create.
 
