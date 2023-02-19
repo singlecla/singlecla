@@ -6,9 +6,7 @@ Version 2.0.0
 
 This contributor license agreement spells out how I license contributions to public software projects on this website.  That way projects can accept my contributions without fear of licensing problems and I can sign one contributor license agreement for all projects here, rather than one for each project.
 
-## Scope
-
-### Pull Requests
+## Pull Requests Covered
 
 This CLA applies to every pull request that I open offering a contribution:
 
@@ -22,13 +20,13 @@ This CLA also applies to a pull request if I specifically say it applies in a co
 
 > My Single CLA applies to this pull request.
 
-### Exceptions
+## Exceptions
 
 This CLA does _not_ apply to a pull request if I specifically say it does not apply in a comment to that pull request before it is accepted.  For example, I might say:
 
 > My Single CLA does not apply to this pull request.
 
-### Withdrawing My CLA
+## Withdrawing My CLA
 
 This CLA does _not_ apply to any pull request that I open on this website after removing this signed CLA from the `singlecla` repository under my account name.
 
