@@ -48,9 +48,9 @@ When I open pull requests offering contributions of work that I have the legal r
 
 5.  I license the project steward to pass these rights on to, or sublicense, anyone or everyone, under any terms they choose, one or many times.  This covers releasing the project under new public license terms, as well as licensing the project to specific customers on commercial license terms.
 
-6.  I cannot and will not revoke these license grants.
+6.  As far as the law allows, I waive any moral rights I have in the work.
 
-7.  As far as the law allows, I waive any moral rights I have in the work.
+7.  I cannot and will not revoke these license grants or waivers.
 
 8.  ***As far as the law allows, my work comes as is, without any warranty or condition, except for my promises under [Rights to License](#rights-to-license).***
 
