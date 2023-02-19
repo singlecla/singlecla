@@ -72,7 +72,7 @@ When I make a contribution, all the work in it will be covered by this CLA.
 
 I am aware of legal rules, like ["work made for hire"](https://en.wikipedia.org/wiki/Work_for_hire) rules, that can give employers and clients ownership of intellectual property rights in my work.  I am also aware that legal agreements I make [can transfer ownership of intellectual property rights in my work to others](https://en.wikipedia.org/wiki/Assignment_(law)), such as companies and other organizations that I found, work for, or sell my work to.  I am aware that due to rules and agreements like these, I may not have the legal right to license work I create.
 
-### Permission
+### Work I Have Permission to Contribute
 
 When I offer a contribution with permission from an organization or another person that might have the legal right to license intellectual property in it, I promise to mention all the following in comments to my pull request:
 
