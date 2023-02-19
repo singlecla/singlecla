@@ -36,23 +36,27 @@ This CLA does _not_ apply to any pull request that I open on this website after 
 
 ### My Own Work
 
-When I make contributions of work that I have the legal rights to license copyrights and patents in:
+When I make contributions of work that I have the legal right to license:
 
 1.  I license the project steward to do everything with my work that would otherwise infringe all copyrights in it that I can license.
 
-2.  I license the project steward to do everything with my work that would otherwise infringe any patent claims that I can license.
+2.  I license the project steward to do everything with my work that would otherwise infringe any patents that I can license.
 
-3.  These license grants cover copyrights and patent claims I can license at the time I open my pull request, as well as copyrights and patent claims I become able to license later.
+3.  I license the project steward to do everything with my work that would otherwise infringe any database rights in it work that I can license.
 
-4.  I license the project steward to pass these rights on to, or sublicense, anyone or everyone, under any terms they choose, one or many times.  As examples, this covers releasing the project under new public license terms, as well as licensing the project to specific customers on commercial license terms.
+4.  These license grants cover rights I can license at the time I open my pull request, as well as rights I become able to license later.
 
-5.  I cannot and will not revoke these license grants.
+5.  I license the project steward to pass these rights on to, or sublicense, anyone or everyone, under any terms they choose, one or many times.  s examples, this covers releasing the project under new public license terms, as well as licensing the project to specific customers on commercial license terms.
 
-6.  ***As far as the law allows, my work comes as is, without any warranty or condition, except my promises about [rights to license](#rights-to-license) under this CLA.***
+6.  I cannot and will not revoke these license grants.
+
+7.  As far as the law allows, I waive any moral rights I have in the work.
+
+8.  ***As far as the law allows, my work comes as is, without any warranty or condition, except my promises about [rights to license](#rights-to-license) under this CLA.***
 
 ### Others' Work
 
-When I make contributions including work that others have the legal rights to license copyrights and patents in:
+When I make contributions including work that others have the legal right to license:
 
 1.  I promise to mention in comments to my pull requests when that work isn't clearly licensed under permissive open license terms that Blue Oak Council rates "bronze" or better at <https://blueoakcouncil.org/list>.
 
@@ -66,13 +70,13 @@ When I make a contribution, all the work in it will be covered by this CLA.
 
 ### Awareness
 
-I am aware of legal rules, like ["work made for hire"](https://en.wikipedia.org/wiki/Work_for_hire) rules, that can give employers and clients ownership of copyrights and patents in my work.  I am also aware that legal agreements I make [can transfer ownership of copyrights and patents in my work to others](https://en.wikipedia.org/wiki/Assignment_(law)), such as companies and other organizations that I found, work for, or sell my work to.  I am aware that due to rules and agreements like these, I may not have the legal rights to license copyrights or patents in work I myself create.
+I am aware of legal rules, like ["work made for hire"](https://en.wikipedia.org/wiki/Work_for_hire) rules, that can give employers and clients ownership of intellectual property rights in my work.  I am also aware that legal agreements I make [can transfer ownership of intellectual property rights in my work to others](https://en.wikipedia.org/wiki/Assignment_(law)), such as companies and other organizations that I found, work for, or sell my work to.  I am aware that due to rules and agreements like these, I may not have the legal right to license intellectual property in work I myself create.
 
 ### Permission
 
-When I offer a contribution with permission from an organization or another person that might have the legal rights to license copyrights or patents in it, I promise to mention all the following in comments to my pull request:
+When I offer a contribution with permission from an organization or another person that might have the legal right to license intellectual property in it, I promise to mention all the following in comments to my pull request:
 
-1.  the fact that an organization or another person might have the legal rights to license copyrights or patents in my contribution
+1.  the fact that an organization or another person might have the legal rights to license intellectual property in my contribution
 
 2.  the name of the person or organization that might have those legal rights
 
@@ -80,11 +84,11 @@ When I offer a contribution with permission from an organization or another pers
 
 For example, I might say:
 
-> I did this work while on the job for Example, Inc.  They may have the legal rights to license copyrights and patents in it.  I asked my manager for permission to contribute, and she pointed me to the company's open source policy, which is online at <https://example.com/open-source-policy>.
+> I did this work while on the job for Example, Inc.  They may have the legal right to license intellectual property in it.  I asked my manager for permission to contribute, and she pointed me to the company's open source policy, which is online at <https://example.com/open-source-policy>.
 
 ### Company and Client CLAs
 
-If a project steward asks me to help get a CLA from someone who may have the legal rights to license copyrights or patents in my contribution, I promise to help the project steward request that CLA.  I am aware that only people with legal authority can sign CLAs on behalf of companies and other organizations.  For corporations, that often means executive officers.
+If a project steward asks me to help get a CLA from someone who may have the legal right to license intellectual property in my contribution, I promise to help the project steward request that CLA.  I am aware that only people with legal authority can sign CLAs on behalf of companies and other organizations.  For corporations, that often means executive officers.
 
 ## Reliability
 
