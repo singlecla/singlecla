@@ -76,19 +76,13 @@ When I open pull requests offering contributions including work that others have
 
 2.  I promise to include copies of copyright notices, license terms, and other licensing documentation in my pull request, so the project steward can tell from files in the project's repository who licensed what work under what terms.
 
-## Rights to License
-
-### All Work
-
-When I make a contribution, all the work in it will be covered by this CLA.
-
-### Awareness
+## Awareness
 
 I am aware of legal rules, like ["work made for hire"](https://en.wikipedia.org/wiki/Work_for_hire) rules, that can give employers and clients ownership of intellectual property rights in my work.  I am also aware that legal agreements I make [can transfer ownership of intellectual property rights in my work to others](https://en.wikipedia.org/wiki/Assignment_(law)), such as companies and other organizations that I found, work for, or sell my work to.  I am aware that due to rules and agreements like these, I may not have the legal right to license work I create.
 
-### Company and Client CLAs
+## Company and Client CLAs
 
-If a project steward asks me to help get a CLA from someone who may have the legal right to license my contribution, I promise to help the project steward request that CLA.  I am aware that only people with legal authority can sign CLAs on behalf of companies and other organizations.  For corporations, that often means executive officers.
+If, before accepting one of my pull requests, a project steward asks me to help get a contributor license agreement from someone who may have the legal right to license my contribution, I promise to help the project steward request that CLA.  I am aware that only people with legal authority can sign CLAs on behalf of companies and other organizations.  For corporations, that often means executive officers.
 
 ## Reliability
 
