@@ -42,7 +42,7 @@ When I make contributions of work that I have the legal right to license:
 
 2.  I license the project steward to do everything with my work that would otherwise infringe any patents that I can license.
 
-3.  I license the project steward to do everything with my work that would otherwise infringe any database rights in it work that I can license.
+3.  I license the project steward to do everything with my work that would otherwise infringe any database rights in it that I can license.
 
 4.  These license grants cover rights I can license at the time I open my pull request, as well as rights I become able to license later.
 
