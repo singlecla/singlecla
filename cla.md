@@ -68,9 +68,9 @@ For example, I might say:
 
 When I open pull requests offering contributions including other work not covered above:
 
-1.  I promise to mention in comments to those pull requests when that work isn't clearly licensed under permissive open license terms that Blue Oak Council rates "bronze" or better at <https://blueoakcouncil.org/list>.
+1.  I promise to mention in comments to those pull requests when my contributions include any work that isn't clearly licensed under permissive open license terms that Blue Oak Council rates "bronze" or better at <https://blueoakcouncil.org/list>.
 
-2.  I promise to include copies of copyright notices, license terms, and other licensing documentation in my pull request, so the project steward can tell from files in the project's repository who licensed what work under what terms.
+2.  I promise to include copies of copyright notices, license terms, and other licensing documentation in my pull requests, so project stewards can tell from files in the project repositories who licensed what work under what terms.
 
 ## Work Made For Hire, IP Assignments, and So On
 
