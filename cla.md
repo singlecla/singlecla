@@ -66,7 +66,7 @@ For example, I might say:
 
 ## Other Work
 
-When I open pull requests offering contributions including other work not covered above:
+When I open pull requests offering contributions with other work not covered above:
 
 1.  I promise to mention in comments to those pull requests when my contributions include any work that isn't clearly licensed under permissive open license terms that Blue Oak Council rates "bronze" or better at <https://blueoakcouncil.org/list>.
 
