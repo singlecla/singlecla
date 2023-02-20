@@ -78,7 +78,7 @@ I am aware of legal rules, like ["work made for hire"](https://en.wikipedia.org/
 
 ## Company and Client CLAs
 
-If, before accepting one of my pull requests, a project steward asks me to help get a documented contributor license agreement from a company or other organization that might have the legal right to license my contribution, I promise to help the project steward request it.  I am aware that only people with legal authority can sign CLAs on behalf of companies and other organizations.
+If, before accepting one of my pull requests, a project steward asks me to help get a documented contributor license agreement from a company or other organization that might have the legal right to license my contribution, I promise to help the project steward request it.  I am aware that [only people with legal authority](https://en.wikipedia.org/wiki/Law_of_agency) can sign CLAs on behalf of companies and other organizations.
 
 ## Reliability
 
