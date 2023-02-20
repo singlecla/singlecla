@@ -54,7 +54,7 @@ When I open pull requests offering contributions of work that I have the legal r
 
 When I open pull requests offering contributions of work that companies or other organizations, like my employers or clients, might have the legal right to license, I promise to mention all the following in comments to those pull requests:
 
-1.  the fact that the organization might have the legal right to license work I am contributing
+1.  the fact that the organization might have the legal right to license work I am offering
 
 2.  the name of the organization
 
