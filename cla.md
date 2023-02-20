@@ -4,7 +4,7 @@ Version 2.0.0
 
 ## Purpose
 
-This contributor license agreement spells out how I license contributions to public software projects on this website.  That way projects can accept my contributions without fear of licensing problems and I can sign one contributor license agreement for all projects here, rather than one for each project.
+This contributor license agreement spells out how I license contributions to public software projects on this website.  That way projects can accept my contributions without fear of licensing problems, without my having to do a CLA for every single project.
 
 ## Pull Requests Covered
 
@@ -22,7 +22,7 @@ This CLA also applies to a pull request if I specifically say it applies in a co
 
 ## Exceptions
 
-This CLA does _not_ apply to a pull request if I specifically say it does not apply in a comment to that pull request before it is accepted.  For example, I might say:
+This CLA does _not_ apply to a pull request if I specifically say it does not apply in a comment to that pull request before it is merged.  For example, I might say:
 
 > My Single CLA does not apply to this pull request.
 
@@ -78,7 +78,7 @@ I am aware of legal rules, like ["work made for hire"](https://en.wikipedia.org/
 
 ## Company and Client CLAs
 
-If, before accepting one of my pull requests, a project steward asks me to help get a documented contributor license agreement from a company or other organization that might have the legal right to license my contribution, I promise to help the project steward request it.  I am aware that [only people with legal authority](https://en.wikipedia.org/wiki/Law_of_agency) can sign CLAs on behalf of companies and other organizations.
+If, before merging one of my pull requests, a project steward asks me to help get a documented contributor license agreement from a company or other organization that might have the legal right to license my contribution, I promise to help the project steward request it.  I am aware that [only people with legal authority](https://en.wikipedia.org/wiki/Law_of_agency) can sign CLAs on behalf of companies and other organizations.
 
 ## Reliability
 
