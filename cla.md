@@ -10,9 +10,9 @@ This contributor license agreement spells out how I license contributions to pub
 
 This CLA applies to every pull request that I open offering a contribution:
 
-1.  to a public software repository
+1.  on the same website where I published this CLA in the `singlecla` repository under my account name
 
-2.  on the same website where I published this CLA in the `singlecla` repository under my account name
+2.  to a public software repository
 
 3.  for a project that gathers rights to license contributions in a single project steward, such as a foundation, company, or lead developer
 
