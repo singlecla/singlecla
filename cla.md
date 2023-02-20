@@ -62,7 +62,7 @@ When I open pull requests offering contributions of work that companies or other
 
 For example, I might say:
 
-> I did this work while on the job for Example, Inc.  They may have the legal right to license it, instead of me.  I asked my manager if I could contribute my work, and she pointed me to our company's open source policy, which covers it.
+> I did this work while on the job for Example, Inc.  They may have the legal right to license it.  I asked my manager if I could contribute, and she pointed me to our company's open source policy, which says I can.
 
 ## Other Work
 
