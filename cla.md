@@ -32,7 +32,7 @@ This CLA does _not_ apply to any pull request that I open on this website after 
 
 ## Licensing My Work
 
-When I open pull requests offering contributions of work that I have the legal right to license:
+When I open pull requests offering contributions with work that I have the legal right to license:
 
 1.  I license the project steward to do everything with my work that would otherwise infringe all copyrights in it that I can license.
 
